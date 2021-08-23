@@ -13,7 +13,7 @@ overflow-x: hidden;
 .home_container {
     min-height: 50vw;
 }
-h1 {
+h1, h2{
     text-align: center;
     font-size: 25px;
     color: #151515;
